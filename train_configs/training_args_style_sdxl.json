@@ -6,7 +6,7 @@
     "sample_imgs_lora_scale": 0.75,
     "seed": 0,
     "resolution": 512,
-    "train_batch_size": 4,
+    "train_batch_size": 2,
     "n_sample_imgs": 6,
     "max_train_steps": 300,
     "checkpointing_steps": 200,
